@@ -1,0 +1,287 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.first-section{
+    display: flex;
+    background-color: #FDEEF1;
+    align-items: center;
+    justify-content: center;
+    gap: 8em;
+    height: 880px;
+}
+.first-section img{
+    padding-top: 85px;
+}
+.first-section p{
+    line-height: 22px;
+    padding-bottom: 22px;   
+}
+.first-section small{
+    color: #5E5E5E;
+}
+.tittle-1{
+    font-size: 70px;
+    padding-bottom: 30px;
+}
+.btn-1{
+    background-color: #E55473;
+    color: white;
+    padding: 12px 27px;
+    border-radius: 8px;
+    border: none;
+}
+.second-section{
+   
+   text-align: center;
+   height:100px;
+   padding-top: 115px;
+   padding-bottom: 20px;
+}
+.second-section h1{
+    padding-bottom: 12px;
+    font-size: 30px;
+}
+.second-section small{
+    line-height: 22px;
+    color: #5E5E5E;
+    
+}
+.second-section-1{
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+    height: 670px;
+    text-align: center;
+}
+.second-section-1 h4{
+    text-decoration: underline;
+   
+}
+
+.card{
+    position: relative;
+    width: 443px;
+    height: 538px;
+    border-top-left-radius: 380px;
+    border-top-right-radius: 380px; 
+}
+
+.card-1{
+    background-color: #F2DEE8;  
+}
+.card-2{
+    background-color: #DAF0F1;
+}
+.card-3{
+    background-color: #E4ECDB;
+}
+.pngwing6{
+    padding-top: 110px;
+}
+.pngwing5{
+    padding-top: 111px;
+    padding-left: 22px;
+}
+.pngwing7{
+    padding-top: 66px;
+}
+
+
+
+.third-section-card{
+    
+    width: 1426px;
+    height: 230px;
+    background-color: #F4F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 11em;
+    text-align: center;
+}
+.third-section{
+    display: flex;
+    justify-content: center;
+    height: 325px;
+}
+.signUp-section{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+       background-color: #FDF6F8;
+       height: 550px;
+       gap: 12em;
+}
+.signUp-section small{
+    line-height: 22px;
+    color: #5E5E5E;
+}
+#Off{
+    color: #E55473;
+}
+.btn-2{
+    background-color: #E55473;
+    color: white;
+    padding: 12px 27px;
+    border-radius: 8px;
+    border: none;
+}
+
+.bonus-container{
+    height: 912px;
+    background-color: #FDEEF1;
+    
+}
+.bonus-container h2{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+}
+.bonus-card{
+    position: relative;
+    width: 443px;
+    height: 600px;
+    background-color: #E5D8D0;
+    border-radius: 15px;
+    
+}
+.card-flower{
+    display: flex;
+    justify-content: center;
+    gap: 5em;
+    padding-top: 100px;  
+}
+.card-flower h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bonus-card-1{
+    width: 235px;
+    padding-left: 102px;
+    padding-top: 45px;
+}
+.bonus-card-2{
+    width: 240px;
+padding-left: 106px;
+padding-top: 13px;
+}
+.bonus-card-3{
+    width: 250px;
+padding-top: 47px;
+padding-left: 102px;
+
+}
+.bonus-card-button{
+    background-color: #E55473;
+    color: white;
+    padding: 14px 27px;
+    border-radius: 8px;
+    border: none;  
+}
+
+.bonus-btn-1{
+background-color: #E55473;
+color: white;
+padding: 16px 42px;
+border-radius: 8px;
+margin-left: 151px;
+margin-top: 41px;
+border: none;
+    
+}
+
+
+.instagram-section{
+    text-align: center;
+    padding-top: 100px;
+}
+.instagram-section h1{
+    padding-bottom: 15px;
+}
+.instagram-section small{
+    line-height: 22px;
+    color: #5E5E5E;
+}
+.instagram-section-image{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    padding-top: 35px;
+}
+
+.subscribeContainer{
+    width: 1418px;
+    height: 385px;
+    background: url("../flower-shop-assignment-main/flower-Asset/Rectangle\ 9.png"); 
+    margin: auto;
+    border-radius: 7px;
+    background-size: cover;
+   
+}
+.subscribeContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.subscribeContainer button{
+    background-color: #E55473;
+    color: white;
+    padding: 14px 27px;
+    border-radius: 8px;
+    border: none;
+}
+.subscribeContainer input{
+    width: 473px;
+    height: 45px;
+    padding-left: 30px;
+    border: none;
+    border-radius: 4px;
+    
+}
+.place{
+    display: flex;
+    gap: 1em;
+}
+.subscribeContainer h1{
+    padding-bottom: 15px;
+    font-size: 35px;
+}
+.subscribeContainer p{
+    padding-bottom: 35px;
+}
+.wrappingContainer{
+    padding-top: 100px;
+}
+
+.footer-work{
+    background-color:#111010 ;
+    color: white;
+    height: 350px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;   
+}
+.footer-work span{
+    color: #E55473;
+}
+.footer-work p{
+    line-height: 22px;
+    padding-bottom: 22px;
+}
+.footer-work h1{
+    padding-bottom: 15px;
+}
+.footer-work small{
+  color: #5E5E5E;
+}
+footer{
+    padding-top: 100px;
+}
